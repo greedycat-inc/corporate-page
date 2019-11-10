@@ -6,7 +6,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -82,3 +83,5 @@ build-iPhoneSimulator/
 .rvmrc
 
 
+_site
+.jekyll-cache
