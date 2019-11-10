@@ -1,3 +1,44 @@
-body {
-  color: red;
+$border-radius: 0.25rem;
+$btn-border-radius: 0.25rem;
+$h1-font-size: 1.5rem;
+$h2-font-size: 1.25rem;
+$input-font-size: 16px;
+$h3-font-size: 1rem;
+$btn-padding-y-sm: 0.125rem;
+$navbar-brand-font-size: 1rem;
+$form-group-margin-bottom: 0;
+$display4-size: 3rem;
+$black: #17181a;
+$primary: #110D0A;
+$body-bg: #FEFEFE;
+$light: #e8ecf1;
+$header-bg: #eff3fa;
+$breadcrumb-bg: $light;
+$list-group-border-radius: 0.5rem;
+$nav-tabs-link-active-bg: transparent;
+$light-black-color: #68707d;
+$gradation: rgba(0, 2, 7, 0.5);
+
+$grid-breakpoints: (
+  xs: 0,
+  md: 576px
+);
+
+$container-max-widths: (
+  md: 960px
+);
+
+$modal-md: 80%;
+
+@import "bootstrap/bootstrap.scss";
+
+footer, nav {
+  background-color: $primary;
+}
+
+.product {
+  background-color: #F9F9F9;
+} 
+.aboutus {
+  background-color: #EEF6F1;
 }
