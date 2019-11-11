@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="176px" height="200px" viewBox="0 0 176 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="68" cy="68" r="68"></circle>
+        <filter x="-23.5%" y="-20.6%" width="147.1%" height="147.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="4" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-3" cx="69" cy="138" r="22"></circle>
+        <filter x="-72.7%" y="-63.6%" width="245.5%" height="245.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="4" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-5" points="0.00745454545 0.393375439 40.4263855 0.393375439 40.4263855 51.9372351 0.00745454545 51.9372351"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="官网主页" transform="translate(-152.000000, -724.000000)">
+            <g id="1" transform="translate(172.000000, 740.000000)">
+                <g id="椭圆形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="椭圆形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <circle stroke="#FFFFFF" stroke-width="4" stroke-linejoin="square" fill="#40976D" fill-rule="evenodd" cx="69" cy="138" r="20"></circle>
+                </g>
+                <g id="分组" transform="translate(48.000000, 42.000000)">
+                    <g transform="translate(10.000000, 1.000000)">
+                        <path d="M23.6687813,49.5501818 L5.36971875,49.5501818 C2.47284375,49.5501818 0.10190625,47.252 0.10190625,44.442 L0.10190625,12.7310909 C0.10190625,9.92109091 2.47284375,7.62290909 5.36971875,7.62290909 L23.6687813,7.62290909 C26.5665938,7.62290909 28.9365938,9.92109091 28.9365938,12.7310909 L28.9365938,44.442 C28.9365938,47.252 26.5665938,49.5501818 23.6687813,49.5501818" id="Fill-1" fill="#E0E0E0"></path>
+                        <polygon id="Fill-3" fill="#FFFFFF" points="13.3709063 1.07409091 29.3327812 14.0422727 15.5759063 14.0422727 13.3709063 10.6559091"></polygon>
+                        <polygon id="Fill-5" fill-opacity="0.5" fill="#40976D" points="13.3709063 0.332272727 29.8662187 11.875 28.2743437 14.0759091 15.5759063 14.0422727 13.3709063 10.655"></polygon>
+                    </g>
+                    <g>
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <g id="Clip-8"></g>
+                        <path d="M28.2335318,14.6778667 C27.1144182,14.7070596 26.0307136,14.2928842 25.2284182,13.528393 C24.4270545,12.7639018 23.9751227,11.7147789 23.9741909,10.6191298 L23.9741909,3.24607719 C24.4531455,3.35190175 24.90135,3.56446316 25.2824636,3.86734035 L36.4176909,12.7337965 C36.9739864,13.1744281 37.3606909,13.7856561 37.5181682,14.4680421 L28.2335318,14.6778667 Z M38.2086455,10.5799018 L27.0771455,1.71344561 C26.0036909,0.860463158 24.6646682,0.3952 23.2837136,0.393375439 L7.84907727,0.393375439 C3.51705455,0.397936842 0.00503181818,3.83632281 -0.000559090909,8.07842807 L-0.000559090909,27.0876211 C-0.000559090909,27.8502877 0.631213636,28.468814 1.41021364,28.468814 C2.18921364,28.468814 2.82098636,27.8502877 2.82098636,27.0876211 L2.82098636,8.07842807 C2.82285,5.36074386 5.07412273,3.15849825 7.84907727,3.15484912 L22.5634182,3.15484912 L22.5634182,10.6109193 C22.5634182,12.0532351 23.1476682,13.4371649 24.1894409,14.458007 C25.2302818,15.4788491 26.64385,16.0526737 28.1170545,16.053586 L28.2586909,16.053586 L37.5973727,15.8291649 L37.5973727,44.2521825 C37.5945773,46.9698667 35.3442364,49.1730246 32.5674182,49.1757614 L7.84907727,49.1757614 C5.07412273,49.1730246 2.82285,46.9698667 2.82098636,44.2521825 L2.82098636,39.2346386 C2.82098636,38.4728842 2.18921364,37.8543579 1.41021364,37.8543579 C0.631213636,37.8543579 -0.000559090909,38.4728842 -0.000559090909,39.2346386 L-0.000559090909,44.2521825 C0.00503181818,48.4942877 3.51705455,51.9326737 7.84907727,51.9372351 L32.5767364,51.9372351 C36.9106227,51.9326737 40.4217136,48.4942877 40.4263727,44.2521825 L40.4263727,15.1476912 C40.4301,13.3751298 39.6156909,11.6965333 38.2086455,10.5799018 Z" id="Fill-7" fill="#707070" mask="url(#mask-6)"></path>
+                    </g>
+                    <path d="M13.7997148,30.6115445 C13.7997148,31.3778104 14.4272371,32 15.203066,32 L32.5975758,32 C33.3715508,32 34,31.3778104 34,30.6115445 C34,29.8443608 33.3715508,29.2221712 32.5975758,29.2221712 L15.203066,29.2221712 C14.8304456,29.2221712 14.4735829,29.3690006 14.2103387,29.6287051 C13.9470945,29.8893273 13.7997148,30.2426356 13.7997148,30.6115445 M27.3595722,22 L9.40335116,22 C8.6284492,22.0009177 8,22.6221896 8,23.3893732 C8,24.1565569 8.6284492,24.7778288 9.40335116,24.7778288 L27.3595722,24.7778288 C28.1344742,24.7778288 28.7619964,24.1565569 28.7619964,23.3893732 C28.7619964,22.6221896 28.1344742,22.0009177 27.3595722,22" id="Fill-9" fill="#707070"></path>
+                </g>
+                <text id="01" font-family="PingFangSC-Medium, PingFang SC" font-size="16" font-weight="400" fill="#FFFFFF">
+                    <tspan x="61.436" y="144">01</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

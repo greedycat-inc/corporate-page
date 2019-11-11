@@ -4,7 +4,7 @@ $(document).ready(function(){
     const speed = 500;
     const href= e.target.attributes.href.value
     const target = $(href == "#" || href == "" ? 'html' : href);
-    const position = target.offset().top-headerHight; //★ -headerHightでズレを解消
+    const position = target.offset().top-headerHight;
     $("html, body").animate({scrollTop:position}, speed, "swing");
   });
 });

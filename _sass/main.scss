@@ -33,6 +33,7 @@ $modal-md: 80%;
 @import "bootstrap/bootstrap.scss";
 
 footer, nav {
+  color: #DDBE7A;
   background-color: $primary;
 }
 
@@ -41,4 +42,21 @@ footer, nav {
 } 
 .aboutus {
   background-color: #EEF6F1;
+}
+
+@for $i from 10 through 30 {
+  .fs-#{$i} {
+    font-size: #{$i}px !important;
+  }
+}
+
+.bg-image {
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.bg-cover {
+  background-size: cover;
+}
+.bg-contain {
+  background-size: contain;
 }
