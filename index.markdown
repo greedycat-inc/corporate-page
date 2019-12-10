@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-<nav class="navbar navbar-expand-md bg-black px-5 fixed-top">
+<nav class="navbar navbar-expand-md bg-black fixed-top">
   <a href="/">
     <img src="/assets/images/logo.svg">
   </a>
-  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+  <button class="navbar-toggler navbar-toggler-right navbar-toggler navbar-toggler-right navbar-dark border-light" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarResponsive">
@@ -197,31 +197,31 @@ layout: default
     <h2 class="fs-42 fc-green">Statistics</h2>
     <span class="fc-gray">9 Major World Regions: (International Arrivals in 2019, 2018, 2017)</span>
     <div class="row mt-5 text-left">
-      <div class="col-md-4 col-12 fc-green font-weight mb-4">
+      <div class="col-md-4 col-6 fc-green font-weight mb-4">
         <span class="number" style="font-size: 1px;">　</span>1.Western Europe 
       </div>
-      <div class="col-md-4 col-12 fc-green font-weight mb-4">
+      <div class="col-md-4 col-6 fc-green font-weight mb-4">
         <span class="number" style="font-size: 1px;">　</span>2. Asia
       </div>
-      <div class="col-md-4 col-12 fc-green font-weight mb-4">
+      <div class="col-md-4 col-6 fc-green font-weight mb-4">
         <span class="number" style="font-size: 1px;">　</span>3. South America
       </div>
-      <div class="col-md-4 col-12 fc-green font-weight mb-4">
+      <div class="col-md-4 col-6 fc-green font-weight mb-4">
         <span class="number" style="font-size: 1px;">　</span>4. Caribbean
       </div>
-      <div class="col-md-4 col-12 fc-green font-weight mb-4">
+      <div class="col-md-4 col-6 fc-green font-weight mb-4">
         <span class="number" style="font-size: 1px;">　</span>5. Oceania
       </div>
-      <div class="col-md-4 col-12 fc-green font-weight mb-4">
+      <div class="col-md-4 col-6 fc-green font-weight mb-4">
         <span class="number" style="font-size: 1px;">　</span>6. Central America 
       </div>
-      <div class="col-md-4 col-12 fc-green font-weight mb-4">
+      <div class="col-md-4 col-6 fc-green font-weight mb-4">
         <span class="number" style="font-size: 1px;">　</span>7. Middle East 
       </div>
-      <div class="col-md-4 col-12 fc-green font-weight mb-4">
+      <div class="col-md-4 col-6 fc-green font-weight mb-4">
         <span class="number" style="font-size: 1px;">　</span>8. Eastern Europe
       </div>
-      <div class="col-md-4 col-12 fc-green font-weight mb-4">
+      <div class="col-md-4 col-6 fc-green font-weight mb-4">
         <span class="number" style="font-size: 1px;">　</span>9. Africa 
       </div>
     </div>
@@ -235,13 +235,27 @@ layout: default
     </div>
   </div>
 </section>
-<section id="headquarter" class="text-white">
+<section class="text-white">
   <div class="bg-green container rounded text-center p-4" style="margin-top:-5%;">
     Mr.menu USA headquarter is in Tampa, FL. Our partner offices are in Beijing – China, Seoul – Korea, and Tokyo – Japan. The team abroad is the backbone of translation and software programming. Allowing for accurate translations to our end users, intuitive design, responsive search and ultimately an over-all better experience. 
   </div>
 </section>
-<footer class="footer mt-auto py-3">
-  <div class="container py-6rem">
-    <img src="/assets/images/contact.svg" class="w-100">
+<footer class="footer mt-auto py-3" id="headquarter">
+  <div class="container py-5">
+    <div class="row fc-green">
+      <div class="col-md-2 col-12 font-weight-bold pr-0">
+        Our Headquarters
+      </div>
+      <div class="col-md-5 col-12">
+        Phone：885-347-3339<br/>
+        Emial：info@greedycatusa.com<br/>
+        Add：7815 N. Dale Mabry HWY. Suite 108, Tampa, FL 33614
+      </div>
+      <div class="col-md-5 col-12">
+        Phone：885-347-3339<br/>
+        Emial：info@greedycatusa.com<br/>
+        Add：1002, 19th floor, foreign enterprise building, FL 10000
+      </div>
+    </div>
   </div>
 </footer>
