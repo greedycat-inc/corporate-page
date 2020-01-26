@@ -109,7 +109,62 @@ layout: default
   <div class="container py-5 text-center py-6rem">
     <h2 class="fs-42 pt-5">FROM OUR CLIENTS</h2>
     <p class="text-light"> Our clients absolutely love our app!</p>
-    <img src="/assets/images/clients.png" class="img-fluid mb-5">
+    <div class="row">
+      <div class="col-12 col-md-6 my-3">
+        <div class="card mb-3 position-relative border-0">
+          <div class="row">
+            <div class="col-4">
+              <img src="/assets/images/client1.png" class="card-img" alt="...">
+            </div>
+            <div class="col-8 text-left">
+              <p class="card-text">"Greedy Cat made it so simple to order from many different restaurants."</p>
+              <p class="fs-22 fc-green m-0 pc-p-absolute" style="bottom: 0;">Kim Zhoa-chez</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 my-3">
+        <div class="card mb-3 position-relative border-0">
+          <div class="row">
+            <div class="col-4">
+              <img src="/assets/images/client2.png" class="card-img" alt="...">
+            </div>
+            <div class="col-8 text-left">
+              <p class="card-text">"This app made my recent visit to the US so much easier. could easily order from many different restaurants and the in person  translate really helped."</p>
+              <p class="fs-22 fc-green m-0 pc-p-absolute" style="bottom: 0;">Eduard Ungureanu</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 my-3">
+        <div class="card mb-3 position-relative border-0">
+          <div class="row">
+            <div class="col-4">
+              <img src="/assets/images/client3.png" class="card-img" alt="...">
+            </div>
+            <div class="col-8 text-left">
+              <p class="card-text">"Before it was very difficult to dining at a restaurant. This app has made it much easier as just show my phone to my server indicating what I am trying to ask.”
+              </p>
+              <p class="fs-22 fc-green m-0 pc-p-absolute" style="bottom: 0;">Ten Nguyen</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 my-3">
+        <div class="card mb-3 position-relative border-0">
+          <div class="row">
+            <div class="col-4">
+              <img src="/assets/images/client4.png" class="card-img" alt="...">
+            </div>
+            <div class="col-8 text-left">
+              <p class="card-text">"Finding a nearby location my family could go to eat was easy! The added bonus of being able to communicate was great as well!”
+              </p>
+              <p class="fs-22 fc-green m-0 pc-p-absolute" style="bottom: 0;"> Randy pho</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
 <section id="contact-section" class="bg-orange">
@@ -125,19 +180,19 @@ layout: default
     <p class="text-white">Mr.menu USA headquarter is in Tampa, FL. Our partner offices are in Beijing – China, Seoul – Korea, and Tokyo – Japan. The team abroad is the backbone of translation and software programming. Allowing for accurate translations to our end users, intuitive design, responsive search and ultimately an over-all better experience.</p>
   </div>
   <div class="bg-black">
-    <div class="container text-white py-4">
+    <div class="container text-white">
       <div class="row">
-        <div class="col-12 col-md-4">
+        <div class="col-12 col-md-4 py-4">
           <i class="fa fa-phone pr-2"></i>Phone：885-347-3339<br/>
           <i class="fa fa-envelope pr-2 fs-12"></i>Email：info@greedycatusa.com<br/>
           <i class="fa fa-map-marker pr-2"></i>Address：7815 N Dale Mabry Hwy suite 108, Tampa, FL 33614
         </div>
-        <div class="col-12 col-md-4">
+        <div class="col-12 col-md-4 py-4">
           <i class="fa fa-phone pr-2"></i>Phone：010-53399332<br/>
           <i class="fa fa-envelope pr-2 fs-12"></i>Email：greedycat@chanmaomap.com<br/>
           <i class="fa fa-map-marker pr-2"></i>Address：Room 19F, Plaza B, Foreign Enterprise Building, Chaoyang D istrict, Beijing
         </div>
-        <div class="col-12 col-md-4">
+        <div class="col-12 col-md-4 py-4">
           <i class="fa fa-phone pr-2"></i>Phone：+81-9041777596<br/>
           <i class="fa fa-envelope pr-2 fs-12"></i>Email：to.be.mr.all.rounder@gmail.com<br/>
           <i class="fa fa-map-marker pr-2"></i>Address：3rd floor,No.14, 1-chome, Tomigaya, shibuya district,Tokyo

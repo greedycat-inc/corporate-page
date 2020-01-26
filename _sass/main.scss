@@ -96,11 +96,19 @@ footer {
   background-color: $green-600;
 }
 
+.pc-p-absolute {
+  position: inherit;
+}
+
 @media (min-width: 576px) {
   body {
     min-width: 1080px;
   }
+  .pc-p-absolute {
+    position: absolute;
+  }
 }
+
 
 .dropdown-item:hover {
   background-color: $black;
