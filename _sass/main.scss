@@ -8,12 +8,12 @@ $btn-padding-y-sm: 0.125rem;
 $navbar-brand-font-size: 1rem;
 $form-group-margin-bottom: 0;
 $display4-size: 3rem;
-$primary: #110D0A;
+$primary: #F7B759;
 $body-bg: #FEFEFE;
 $green-600: #59AA83;
 $green: #009E65;
 $light-green: #EEF6F2;
-$light: #e8ecf1;
+$light: #EAEAEA;
 $header-bg: #eff3fa;
 $breadcrumb-bg: $light;
 $list-group-border-radius: 0.5rem;
@@ -27,7 +27,7 @@ $grid-breakpoints: (
 );
 
 $container-max-widths: (
-  md: 960px
+  md: 1080px
 );
 
 $modal-md: 80%;
@@ -48,14 +48,21 @@ footer {
   background-color: #EEF6F1;
 }
 
-#contents {
+#why {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   background-image: url("/assets/images/pattern1.png");
 }
 
-@for $i from 10 through 42 {
+#headquarter-section {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-image: url("/assets/images/headquarter.png");
+}
+
+@for $i from 10 through 50 {
   .fs-#{$i} {
     font-size: #{$i}px !important;
   }
@@ -100,8 +107,11 @@ footer {
 }
 
 a:hover {
-  color: #E3BE6F !important;
   opacity: 0.7;
+}
+
+.bg-orange {
+  background-color:rgba(247, 183, 89, 0.1);
 }
 
 .number {
