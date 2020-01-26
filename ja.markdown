@@ -11,41 +11,41 @@ layout: default
   <div class="collapse navbar-collapse" id="navbarResponsive">
     <ul class="navbar-nav ml-auto">
       <li class="nav-item">
-        <a class="nav-link js-smooth text-white" href="#top">HOME</a>
+        <a class="nav-link js-smooth text-white" href="#top">ホーム</a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-item nav-link dropdown-toggle mr-md-2 text-white" href="#" id="category" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          TOURISTS SPENDING BY CATEGORY
+          観光客の支出カテゴリ
         </a>
         <div class="dropdown-menu dropdown-menu-md-right bg-black" aria-labelledby="category">
-          <a class="dropdown-item text-primary js-smooth" href="#tourists-data">TOP 6 NON-ENGLISH SPOKEN TOURISTS OVERSEA</a>
+          <a class="dropdown-item text-primary js-smooth" href="#tourists-data">海外の英語を話さない観光客トップ 6</a>
         </div>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-item nav-link dropdown-toggle mr-md-2 text-white" href="#" id="marketing" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          ONLINE OFFLINE MARKETING
+          オンライン オフラインマーケティング
         </a>
         <div class="dropdown-menu dropdown-menu-md-right bg-black" aria-labelledby="marketing">
-          <a class="dropdown-item text-primary js-smooth" href="#benefits-section">RESTAURANTS BENEFITS</a>
-          <a class="dropdown-item text-primary js-smooth" href="#locations-section">AVAILABLE LOCATIONS</a>
+          <a class="dropdown-item text-primary js-smooth" href="#benefits-section">レストランのメリット</a>
+          <a class="dropdown-item text-primary js-smooth" href="#locations-section">利用可能な場所</a>
         </div>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-item nav-link dropdown-toggle mr-md-2 text-white" href="#" id="audience" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          OUR TARGET AUDIENCE
+          私たちのターゲット対象
         </a>
         <div class="dropdown-menu dropdown-menu-md-right bg-black" aria-labelledby="audience">
-          <a class="dropdown-item text-primary js-smooth" href="#audience-section">FROM OUR CLIENTS</a>
-          <a class="dropdown-item text-primary js-smooth" href="#contact-section">PARTNER NOW</a>
-          <a class="dropdown-item text-primary js-smooth" href="#headquarter-section">OUR HEADQUARTERS</a>
+          <a class="dropdown-item text-primary js-smooth" href="#audience-section">クライアントから</a>
+          <a class="dropdown-item text-primary js-smooth" href="#contact-section">今パートナーになる</a>
+          <a class="dropdown-item text-primary js-smooth" href="#headquarter-section">本社</a>
         </div>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-item nav-link dropdown-toggle mr-md-2 text-white" href="#" id="language" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                <img src="/assets/images/america.svg" class="mr-2">English
+          <img src="/assets/images/japanese.svg" class="mr-2">日本語
         </a>
         <div class="dropdown-menu dropdown-menu-md-right bg-black" aria-labelledby="language">
-          <a class="dropdown-item text-primary" href="/ja">日本語</a>
+          <a class="dropdown-item text-primary" href="/">English</a>
         </div>
       </li>
     </ul>
@@ -55,92 +55,99 @@ layout: default
   <div class="bg-image bg-cover d-none d-md-block" style="background-image: url(/assets/images/banner1.png); background-position: center; height: 640px;">
   </div>
   <img src="/assets/images/banner1.png" class="w-100 d-md-none d-block">
-  <img src="/assets/images/copy.svg" class="position-absolute" style="width: 80%;top: 0;right: 0;left: 0;right: 0;margin: auto;bottom: 0;">
+  <img src="/assets/images/japanese_copy.svg" class="position-absolute" style="width: 80%;top: 0;right: 0;left: 0;right: 0;margin: auto;bottom: 0;">
 </header>
 <section id="why">
   <div class="container py-6rem">
     <h2 class="fs-46 text-center">
-      WHY MR.MENU?
+      なぜミスターメニュー？
     </h2>
     <p class="my-5">
-      Convinced that the success of the product relies on an outstanding user experience based on complete and accurate data, we have partnered with the leading providers of strategic information in the USA for reviews, menus and restaurant data in addition to mapping and geo location services information. All Mr.menu data is stored in nationally recognized collocated data centers to facilitate both redundancy and optimized user connectivity and experience. Upcoming feature enhancements include in App payment using services such as WeChat Pay and AliPay, direct in App integration with leading ride-share providers and the ability to place orders at restaurants for both take away and delivery. Additionally, we would like to offer digital coupons for both dining and shopping use as well as access to tickets for attractions, sporting events and concerts. 
+      このプロダクトの成功は、コンプリート正確なデートに基づき、優れたユーザーエクスペリエンスに頼ることを確信し、レビュー、メニュー、レストランのデータの他、マッピングおよびジオロケーションサービスインフォメーションの面でアメリカ一流の戦略情報のプロバイダーと提携しています。ミスターメニューのすべてのデータは全国的に認められた一緒に配置されたデータセンターに保存され、冗長性、最適化されたユーザー接続とエクスペリエンスの両方を促進します。今後はウィーチャットペイ、アリペイの機能が含まれ、大手ライドシェアプロバイダーとのアプリ内部統合、レストラン内の注文で、持ち帰りとデリバリーの両方ができます。さらに、食事とショッピングの両方に使用できるデジタルクーポンと、アトラクション、スポーツイベント、コンサートのチケットへのアクセスを提供したいと考えています。
     </p>
     <img src="/assets/images/why.png" class="img-fluid">
   </div>
 </section>
 <section class="bg-light" id="tourists-data">
   <div class="container py-5 text-center py-6rem">
-    <h2 class="fs-42 py-5">TOURISTS SPENDING BY CATEGORY</h2>
-    <img src="/assets/images/graph.svg" class="img-fluid">
-    <h2 class="fs-42 py-5">TOP 6 NON-ENGLISH SPOKEN TOURISTS OVERSEA </h2>
-    <img src="/assets/images/6-counties.png" class="img-fluid mb-5">
+    <h2 class="fs-42 py-5">観光客の支出カテゴリ</h2>
+    <img src="/assets/images/japanese_graph.svg" class="img-fluid">
+    <h2 class="fs-42 py-5">海外の英語を話さない観光客トップ 6</h2>
+    <img src="/assets/images/japanese_6-counties.png" class="img-fluid mb-5">
   </div>
 </section>
 <section id="marketing-section">
   <div class="container py-5 text-center py-6rem">
-    <h2 class="fs-42 py-5">ONLINE OFFLINE MARKETING</h2>
+    <h2 class="fs-42 py-5">オンライン オフラインマーケティング</h2>
     <img src="/assets/images/marketing.png" class="img-fluid mb-5">
+  </div>
+</section>
+<section id="marketing-section">
+  <div class="container py-5 text-center py-6rem">
+    <h2 class="fs-42 py-5">月間ユーザーユーザー</h2>
+    <img src="/assets/images/japanese_sns_graph.png" class="img-fluid mb-5">
   </div>
 </section>
 <section id="benefits-section" class="bg-orange">
   <div class="container py-5 text-center py-6rem">
-    <h2 class="fs-42 py-5">RESTAURANTS BENEFITS</h2>
-    <img src="/assets/images/benefits.png" class="img-fluid mb-5">
+    <h2 class="fs-42 py-5">レストランのメリット</h2>
+    <img src="/assets/images/japanese_benefits.png" class="img-fluid mb-5">
   </div>
 </section>
 <section id="locations-section">
   <div class="container py-5 text-center py-6rem">
-    <h2 class="fs-42 pt-5">AVAILABLE LOCATIONS</h2>
+    <h2 class="fs-42 pt-5">利用可能な場所</h2>
     <p class="my-5">
-      For our initial launch, we have targeted Boston, Chicago, Los Angeles, Las Vegas, Miami, New York, Orlando, Philadelphia, Salt Lake City, San Diego, San Francisco, Santa Barbara, Seattle, Tampa, Washington DC, and Hawaii. As the App gains tractions and users, we will expand the locations where it will be able to assist users in. Our second target market will be visitors from Japan to the USA, which currently numbers some 3 million annually and then we would like to explore the ability to take the APP the other English-speaking countries. 
+      私たちの最初のリリースでは、ターゲット市場はボストン、シカゴ、ロサンゼルス、ラスベガス、マイアミ、ニューヨーク、オーランド、フィラデルフィア、ソルトレイクシティ、サンディエゴ、サンフランシスコ、サンタバーバラ、シアトル、タンパ、ワシントンDC、ハワイです。 アプリが進化し、ユーザーが引き付け、ユーザーを支援できる場所を拡大します。 第2のターゲット市場は、日本から米国への訪問者です。現在年間約300万人の訪問者を訪ねるその後、他の英語圏の国々にアプリを持ち込む方法を探りたいと考えています。
     </p>
-    <img src="/assets/images/locations.png" class="img-fluid mb-5">
+    <img src="/assets/images/japanese_locations.png" class="img-fluid mb-5">
   </div>
 </section>
 <section class="bg-black" id="audience-section">
   <div class="container py-5 text-center py-6rem">
-    <h2 class="fs-42 pt-5 text-primary">AVAILABLE LOCATIONS</h2>
+    <h2 class="fs-42 pt-5 text-primary">対象ユーザー</h2>
     <p class="my-5 text-primary">
-      The initial target market for Greedy Cat is foreign visitors from China, of which there are currently 3.5 million annually. Of this, approximately 50% travel with prearranged independently and book all their needs while traveling. Backpackers are the target market for the Greedy Cat App. Average length of the trip to the USA is 14 days and the visitors will typically spend time in 3 different cities or regions while they are in the USA. 16 cities 3.5 million annual tourist 4 languages.
+      グリーディーケットの当初のターゲット市場は中国からの外国人観光客で、現在は年間350万人の訪問者がある。 そのうち約50%が独立して手配し、旅行中にすべてのニーズを予約しています。 バックパッカーは、グリーディーケットアプリのターゲット市場です。 米国への平均旅行は14日間であり、訪問者は、通常、米国の3つの異なる都市または地域に滞在します。 16都市は年間350万人の観光客が4ヶ国語で訪れます。
     </p>
   </div>
 </section>
 <section id="audience-section">
   <div class="container py-5 text-center py-6rem">
-    <h2 class="fs-42 pt-5">FROM OUR CLIENTS</h2>
-    <p class="text-light"> Our clients absolutely love our app!</p>
-    <img src="/assets/images/clients.png" class="img-fluid mb-5">
+    <h2 class="fs-42 pt-5">クライアントから</h2>
+    <p class="text-light">私たちのクライアントはこのアプリを絶対に愛しています！</p>
+    <img src="/assets/images/japanese_clients.png" class="img-fluid mb-5">
   </div>
 </section>
 <section id="contact-section" class="bg-orange">
   <div class="container py-5 text-center py-6rem">
-    <h2 class="fs-42 pt-5"> PARTNER NOW</h2>
-    <p>Don't miss out on more quality patrons! Register below and we'll contact you shortly.</p>
-    <a href="https://forms.gle/poaeUW9vbX9jAkve9" class="btn btn-primary btn-lg text-white mt-5" target="_blank">Go to the Form</a>
+    <h2 class="fs-42 pt-5">今パートナーになる</h2>
+    <p>より質の高い顧客をお見逃しなく、以下から登録してください。すぐにご連絡いたします。</p>
+    <a href="https://forms.gle/poaeUW9vbX9jAkve9" class="btn btn-primary btn-lg text-white mt-5" target="_blank">問い合わせをする</a>
   </div>
 </section>
 <section id="headquarter-section">
   <div class="container py-5 text-center py-6rem">
-    <h2 class="fs-42 text-white">OUR HEADQUARTERS</h2>
-    <p class="text-white">Mr.menu USA headquarter is in Tampa, FL. Our partner offices are in Beijing – China, Seoul – Korea, and Tokyo – Japan. The team abroad is the backbone of translation and software programming. Allowing for accurate translations to our end users, intuitive design, responsive search and ultimately an over-all better experience.</p>
+    <h2 class="fs-42 text-white">本社</h2>
+    <p class="text-white">ミスターメニューのUSA本社はフロリダ州タンパにあります。私たちのパートナーオフィスは中国の北京、韓国のソウル、日本の東京にあります。海外のチームは、翻訳とソフトウェアプログラミングのバックボーンです。ユーザーに正確な翻訳、直観的なデザイン、レスポンシブ検索、全体的な優れたエクスペリエンスを提供いたします。
+    </p>
   </div>
   <div class="bg-black">
     <div class="container text-white py-4">
       <div class="row">
         <div class="col-12 col-md-4">
-          <i class="fa fa-phone pr-2"></i>Phone：885-347-3339<br/>
-          <i class="fa fa-envelope pr-2 fs-12"></i>Email：info@greedycatusa.com<br/>
-          <i class="fa fa-map-marker pr-2"></i>Address：7815 N Dale Mabry Hwy suite 108, Tampa, FL 33614
+          <i class="fa fa-phone pr-2"></i>電話番号：885-347-3339<br/>
+          <i class="fa fa-envelope pr-2 fs-12"></i>メールアドレス：info@greedycatusa.com<br/>
+          <i class="fa fa-map-marker pr-2"></i>住所：7815 N Dale Mabry Hwy suite 108, Tampa, FL 33614
         </div>
         <div class="col-12 col-md-4">
-          <i class="fa fa-phone pr-2"></i>Phone：010-53399332<br/>
-          <i class="fa fa-envelope pr-2 fs-12"></i>Email：greedycat@chanmaomap.com<br/>
-          <i class="fa fa-map-marker pr-2"></i>Address：Room 19F, Plaza B, Foreign Enterprise Building, Chaoyang D istrict, Beijing
+          <i class="fa fa-phone pr-2"></i>電話番号：010-53399332<br/>
+          <i class="fa fa-envelope pr-2 fs-12"></i>メールアドレス：greedycat@chanmaomap.com<br/>
+          <i class="fa fa-map-marker pr-2"></i>住所：Room 19F, Plaza B, Foreign Enterprise Building, Chaoyang D istrict, Beijing
         </div>
         <div class="col-12 col-md-4">
-          <i class="fa fa-phone pr-2"></i>Phone：+81-9041777596<br/>
-          <i class="fa fa-envelope pr-2 fs-12"></i>Email：to.be.mr.all.rounder@gmail.com<br/>
-          <i class="fa fa-map-marker pr-2"></i>Address：3rd floor,No.14, 1-chome, Tomigaya, shibuya district,Tokyo
+          <i class="fa fa-phone pr-2"></i>電話番号：+81-9041777596<br/>
+          <i class="fa fa-envelope pr-2 fs-12"></i>メールアドレス：to.be.mr.all.rounder@gmail.com<br/>
+          <i class="fa fa-map-marker pr-2"></i>住所：3rd floor,No.14, 1-chome, Tomigaya, shibuya district,Tokyo
         </div>
       </div>
     </div>

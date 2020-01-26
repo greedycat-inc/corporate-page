@@ -99,7 +99,7 @@ layout: default
 </section>
 <section class="bg-black" id="audience-section">
   <div class="container py-5 text-center py-6rem">
-    <h2 class="fs-42 pt-5 text-primary">AVAILABLE LOCATIONS</h2>
+    <h2 class="fs-42 pt-5 text-primary">OUR TARGET AUDIENCE</h2>
     <p class="my-5 text-primary">
       The initial target market for Greedy Cat is foreign visitors from China, of which there are currently 3.5 million annually. Of this, approximately 50% travel with prearranged independently and book all their needs while traveling. Backpackers are the target market for the Greedy Cat App. Average length of the trip to the USA is 14 days and the visitors will typically spend time in 3 different cities or regions while they are in the USA. 16 cities 3.5 million annual tourist 4 languages.
     </p>
