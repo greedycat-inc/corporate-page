@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: english_top_page
 ---
 <nav class="navbar navbar-expand-md fixed-top bg-primary">
   <a href="/">
