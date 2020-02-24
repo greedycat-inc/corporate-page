@@ -46,6 +46,7 @@ layout: default
         </a>
         <div class="dropdown-menu dropdown-menu-md-right bg-black" aria-labelledby="language">
           <a class="dropdown-item text-primary" href="/">English</a>
+          <a class="dropdown-item text-primary" href="/cn">中文</a>
         </div>
       </li>
     </ul>

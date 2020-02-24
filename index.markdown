@@ -46,6 +46,7 @@ layout: english_top_page
         </a>
         <div class="dropdown-menu dropdown-menu-md-right bg-black" aria-labelledby="language">
           <a class="dropdown-item text-primary" href="/ja">日本語</a>
+          <a class="dropdown-item text-primary" href="/cn">中文</a>
         </div>
       </li>
     </ul>

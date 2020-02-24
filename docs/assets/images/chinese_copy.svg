@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="684px" height="71px" viewBox="0 0 684 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Enjoy Food Enjoy Tra</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <text id="text-1" font-family=".SFNSDisplay, .SF NS Display" font-size="68" font-weight="normal" fill="#DDBE7A">
+            <tspan x="380.001953" y="371">Enjoy Food  Enjoy Travel</tspan>
+        </text>
+        <filter x="-1.3%" y="-10.4%" width="102.5%" height="128.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="1">
+        <g id="官网主页" transform="translate(-378.000000, -319.000000)" fill="#DDBE7A">
+            <g id="顶部">
+                <g id="banner">
+                    <g id="Enjoy-Food-Enjoy-Tra">
+                        <use filter="url(#filter-2)" xlink:href="#text-1"></use>
+                        <use xlink:href="#text-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
