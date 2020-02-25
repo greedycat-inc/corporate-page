@@ -111,13 +111,13 @@ layout: default
       <div class="col-md-6 clearfix">
         <p class="float-left">联系方式</p>
         <ul class="float-left">
-          <li>电话：1234567</li>
-          <li>邮箱：@chanmaomap.com</li>
-          <li>地址：東京都東京都東京都</li>
+          <li>电话：010-53399332</li>
+          <li>邮箱：greedycat@chanmaomap.com</li>
+          <li>地址：北京市朝阳区外企大厦B座19层</li>
         </ul>
       </div>
-      <div class="col-md-6 clearfix">
-        <img src="/assets/images/qr.png" class="float-right h-100">
+      <div class="col-md-6 qr">
+        <img src="/assets/images/qr.png" class="h-100">
       </div>
     </div>
     <p class="text-center">

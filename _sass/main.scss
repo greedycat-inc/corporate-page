@@ -99,6 +99,10 @@ footer {
   position: inherit;
 }
 
+.qr {
+  text-align: center;
+}
+
 @media (min-width: 576px) {
   body {
     min-width: 1080px;
@@ -106,8 +110,10 @@ footer {
   .pc-p-absolute {
     position: absolute;
   }
+  .qr {
+    text-align: right;
+  }
 }
-
 
 .dropdown-item:hover {
   background-color: $black;
